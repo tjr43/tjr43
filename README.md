@@ -1,7 +1,6 @@
-## 면목
 
-<h1 align="center">Hi 👋, I'm 네트워크가 좋은 이석현</h1>
-<h3 align="center">어려워요</h3>
+<h1 align="center">네트워크가 재밌어요</h1>
+<h3 align="center">근데 어려워요</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
